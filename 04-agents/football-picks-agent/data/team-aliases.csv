@@ -1,0 +1,20 @@
+alias,canonical,source,note
+Central Florida,UCF Knights,pinnacle,
+Ole Miss,Ole Miss Rebels,pinnacle,
+Hawaii,Hawai'i Rainbow Warriors,pinnacle,
+Southern Miss,Southern Mississippi Golden Eagles,pinnacle,Odds API spells out Mississippi
+Southern Miss Golden Eagles,Southern Mississippi Golden Eagles,espn,
+San Jose State,San José State Spartans,pinnacle,
+Appalachian State,App State Mountaineers,pinnacle,
+Miami,Miami Hurricanes,pinnacle,Pinnacle also uses Miami Florida
+Miami Florida,Miami Hurricanes,pinnacle,
+Miami Ohio,Miami (OH) RedHawks,pinnacle,
+Connecticut,UConn Huskies,pinnacle,
+Middle Tennessee State,Middle Tennessee Blue Raiders,pinnacle,
+UL Lafayette,Louisiana Ragin Cajuns,pinnacle,Odds API drops the apostrophe
+Louisiana,Louisiana Ragin Cajuns,pinnacle,
+Louisiana Ragin' Cajuns,Louisiana Ragin Cajuns,espn,
+UL Monroe,UL Monroe Warhawks,pinnacle,
+UMass,Massachusetts Minutemen,pinnacle,
+Massachusetts,Massachusetts Minutemen,pinnacle,
+Athletic Bilbao,Athletic Club,pinnacle,La Liga; ESPN displayName

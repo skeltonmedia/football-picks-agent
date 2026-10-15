@@ -1,0 +1,37 @@
+{
+  "brand_name": "Daddy Dan's Picks",
+  "stake_line": "1 UNIT EACH · ★★★★★ = 2 UNITS",
+  "footer": "EVERY PICK TRACKED VS RESULTS, TAILED OR NOT, TO SHARPEN THIS.",
+  "short_board_message": "JUST {count} MADE THE BOARD THIS WEEK. NO FILLER PICKS.",
+  "width": 1024,
+  "height": 1536,
+  "default_theme": "classic-fan-cave",
+  "reference_image": "assets/visual/daddy-dans-picks-reference.jpg",
+  "themes": {
+    "classic-fan-cave": {
+      "background": "assets/visual/classic-fan-cave-background.png",
+      "accent": "#cf2634",
+      "accent_dark": "#86131f",
+      "paper": "#f2eadc",
+      "muted": "#b9afa3"
+    }
+  },
+  "theme_policy": {
+    "allowed_directions": [
+      "classic",
+      "holiday",
+      "rivalry",
+      "seasonal",
+      "game-of-the-week"
+    ],
+    "preserve": [
+      "brand name",
+      "portrait ratio",
+      "title hierarchy",
+      "ten-row board",
+      "source pick order",
+      "scarlet, cream, and charcoal core palette",
+      "central text-safe zone"
+    ]
+  }
+}
